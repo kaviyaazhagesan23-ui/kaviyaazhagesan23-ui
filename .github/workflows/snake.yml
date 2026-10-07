@@ -1,33 +1,33 @@
-name: Generate Snake Animation
+name: Generate Neon Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Neon Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: kaviyaazhagesan23-ui
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=06B6D4&color_dots=#f1f5f9,#c7d2fe,#a5b4fc,#818cf8,#06B6D4
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=34D399&color_dots=#1e293b,#475569,#8B5CF6,#C084FC,#38BDF8
+            dist/github-snake.svg?palette=github-dark&color_snake=%2300FFFF&color_dots=%230B0B18%3B%237B2CFF%3B%2300FFFF%3B%23FF00FF%3B%2300FF85
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300FFFF&color_dots=%230B0B18%3B%237B2CFF%3B%2300FFFF%3B%23FF00FF%3B%2300FF85
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish Neon Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
-          commit_message: "Update illuminating snake animation [skip ci]"
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
