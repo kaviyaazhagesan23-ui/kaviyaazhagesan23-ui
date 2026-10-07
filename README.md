@@ -227,3 +227,196 @@ Connect
 
 </div>
 <div align="center"> <h3><i>"Building intelligent systems. Solving real problems. Engineering for impact."</i></h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/> </div>
+
+Create my GitHub PROFILE README.md as a HIGHLY VISUAL, ANIMATED, 3D-STYLE developer portfolio. IMPORTANT: I DO NOT WANT A TEXT-HEAVY README. I want approximately: 80% VISUAL 20% TEXT The profile should look like a futuristic premium AI/ML developer portfolio — NOT like a resume pasted into GitH
+
+PASTED
+
+Drafting a centered visual README layout.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:312E81,50:7C3AED,75:2563EB,100:22D3EE&height=280&section=header&text=KAVIYA%20AZHAGESAN&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=38&stroke=A78BFA&strokeWidth=2&animation=twinkling&desc=AI%20%2F%20ML%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20FULL%20STACK&descSize=18&descColor=C4B5FD&descAlignY=62" width="100%" alt="header"/> <a href="https://github.com/kaviyaazhagesan23-ui"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=AI+%2F+ML+ENGINEER;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;DATA-DRIVEN+SYSTEM+BUILDER;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG"/> </a>
+
+<br/><br/>
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/> <div align="center"> <h2> <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&labelColor=050816" alt="AI/ML"/> <b>+</b> <img src="https://img.shields.io/badge/SOFTWARE-2563EB?style=for-the-badge&labelColor=050816" alt="Software"/> <b>+</b> <img src="https://img.shields.io/badge/DATA-06B6D4?style=for-the-badge&labelColor=050816" alt="Data"/> <b>+</b> <img src="https://img.shields.io/badge/FULL%20STACK-EC4899?style=for-the-badge&labelColor=050816" alt="Full Stack"/> </h2> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=520&height=35&lines=Building+intelligent+systems+for+real-world+problems." alt="tagline"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// ABOUT
+
+B.Tech CSE student specializing in AI & ML at SRMIST.
+I build data-driven software, from ML pipelines to full-stack products.
+Focused on explainable AI, geospatial systems, and generative AI.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// TECH UNIVERSE
+<div align="center"> <img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=050816" alt="Languages"/> <br/> <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,html,css&theme=dark&perline=6" alt="Languages"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EC4899?style=for-the-badge&labelColor=050816" alt="AI ML"/> <br/> <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" alt="AI ML icons"/> <br/> ![XGBoost](https://img.shields.io/badge/XGBoost-4C1D95?style=for-the-badge&labelColor=0B1026) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0B1026) ![TF-IDF](https://img.shields.io/badge/TF--IDF-6D28D9?style=for-the-badge&labelColor=0B1026) ![SHAP](https://img.shields.io/badge/SHAP-2563EB?style=for-the-badge&labelColor=0B1026) ![LIME](https://img.shields.io/badge/LIME-06B6D4?style=for-the-badge&labelColor=0B1026) ![Grounding DINO](https://img.shields.io/badge/Grounding%20DINO-7C3AED?style=for-the-badge&labelColor=0B1026) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-EC4899?style=for-the-badge&labelColor=0B1026)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONTEND-2563EB?style=for-the-badge&labelColor=050816" alt="Frontend"/> <br/> <img src="https://skillicons.dev/icons?i=react,vite,threejs,js&theme=dark" alt="Frontend"/> <br/> ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0B1026)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASE-06B6D4?style=for-the-badge&labelColor=050816" alt="Backend"/> <br/> <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres&theme=dark" alt="Backend"/> <br/> ![REST APIs](https://img.shields.io/badge/REST%20APIs-312E81?style=for-the-badge&labelColor=0B1026)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLOUD%20%26%20TOOLS-8B5CF6?style=for-the-badge&labelColor=050816" alt="Tools"/> <br/> <img src="https://skillicons.dev/icons?i=gcp,git,github,docker,linux,vscode,postman,colab&theme=dark" alt="Tools"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// AI / ML GRID
+<div align="center"> <table> <tr> <td align="center" width="25%"><img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0B1026" alt="AI/ML"/></td> <td align="center" width="25%"><img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0B1026" alt="CV"/></td> <td align="center" width="25%"><img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&labelColor=0B1026" alt="NLP"/></td> <td align="center" width="25%"><img src="https://img.shields.io/badge/Predictive%20Analytics-EC4899?style=for-the-badge&labelColor=0B1026" alt="Predictive"/></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/Explainable%20AI-4C1D95?style=for-the-badge&labelColor=0B1026" alt="XAI"/></td> <td align="center"><img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&labelColor=0B1026" alt="GenAI"/></td> <td align="center"><img src="https://img.shields.io/badge/Data%20Analytics-22D3EE?style=for-the-badge&labelColor=0B1026" alt="Data"/></td> <td align="center"><img src="https://img.shields.io/badge/Model%20Deployment-3B82F6?style=for-the-badge&labelColor=0B1026" alt="Deployment"/></td> </tr> </table> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// FEATURED PROJECTS
+<div align="center"> <details open> <summary><img src="https://img.shields.io/badge/%F0%9F%9A%80%20TRICHYGUARD-AI%20Road%20Safety%20%2B%20Emergency%20Response-7C3AED?style=for-the-badge&labelColor=050816" alt="TrichyGuard"/></summary> <br/> <table width="90%"> <tr><td align="center">
+
+<sub>AI-powered accident-risk analysis with zone classification, risk mapping, weather intelligence, hospital discovery and ambulance routing.</sub>
+
+<br/><br/>
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+</td></tr> </table> </details> <details> <summary><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20FAIRHIRE%20AI-Explainable%20AI%20Resume%20Screening-2563EB?style=for-the-badge&labelColor=050816" alt="FairHire AI"/></summary> <br/> <table width="90%"> <tr><td align="center">
+
+<sub>NLP-powered resume screening using machine learning with SHAP and LIME explanations.</sub>
+
+<br/><br/>
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+</td></tr> </table> </details> <details> <summary><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20VISIONEDIT%20AI-Generative%20AI%20Image%20Editing-06B6D4?style=for-the-badge&labelColor=050816" alt="VisionEdit AI"/></summary> <br/> <table width="90%"> <tr><td align="center">
+
+<sub>Prompt-driven image editing with zero-shot detection, object removal, object replacement and generative image creation.</sub>
+
+<br/><br/>
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+</td></tr> </table> </details> <details> <summary><img src="https://img.shields.io/badge/%F0%9F%8C%BE%20AGRIGUARD-AI%20Paddy%20Price%20Forecasting-EC4899?style=for-the-badge&labelColor=050816" alt="AgriGuard"/></summary> <br/> <table width="90%"> <tr><td align="center">
+
+<sub>AI-powered agricultural decision support for paddy price forecasting, market comparison, selling decisions, revenue estimation and farmer-buyer matching.</sub>
+
+<br/><br/>
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+<br/>
+
+<a href="https://github.com/kaviyaazhagesan23-ui/agriguard-agritech-ai-platform"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1026" alt="View Project"/></a>
+
+</td></tr> </table> </details> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// EXPERIENCE
+<div align="center">
+Show Image
+Show Image
+</div>
+ML pipelines: preprocessing, feature engineering, predictive modeling
+REST APIs and full-stack AI applications
+Explainable AI and geospatial applications
+Cloud deployment and national hackathons
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// ACHIEVEMENT WALL
+<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>🏆</h3> <img src="https://img.shields.io/badge/1st%20Prize-F59E0B?style=for-the-badge&labelColor=0B1026" alt="1st Prize"/> <br/><sub>SNS National Food Conference</sub> </td> <td align="center" width="33%"> <h3>🚀</h3> <img src="https://img.shields.io/badge/Finalist-7C3AED?style=for-the-badge&labelColor=0B1026" alt="Finalist"/> <br/><sub>TNWISE State-Level Hackathon</sub> </td> <td align="center" width="33%"> <h3>🚑</h3> <img src="https://img.shields.io/badge/Finalist-2563EB?style=for-the-badge&labelColor=0B1026" alt="Finalist"/> <br/><sub>Protothon National Hackathon</sub> </td> </tr> <tr> <td align="center"> <h3>🌳</h3> <img src="https://img.shields.io/badge/Smartathon-06B6D4?style=for-the-badge&labelColor=0B1026" alt="Smartathon"/> <br/><sub>National Hackathon</sub> </td> <td align="center"> <h3>📚</h3> <img src="https://img.shields.io/badge/IECOM%202025-EC4899?style=for-the-badge&labelColor=0B1026" alt="IECOM"/> <br/><sub>Research Publication</sub> </td> <td align="center"> <h3>👩‍💼</h3> <img src="https://img.shields.io/badge/Secretary-8B5CF6?style=for-the-badge&labelColor=0B1026" alt="Secretary"/> <br/><sub>Women Entrepreneurs Club</sub> </td> </tr> </table> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// CERTIFICATIONS
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// GITHUB ANALYTICS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kaviyaazhagesan23-ui&show_icons=true&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="185" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyaazhagesan23-ui&layout=compact&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=C4B5FD&langs_count=8" height="185" alt="Top Languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyaazhagesan23-ui&theme=dark&hide_border=true&background=0B1026&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=8B5CF6" height="185" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaviyaazhagesan23-ui&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyaazhagesan23-ui&bg_color=050816&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="Contribution Activity"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// CONTRIBUTION SNAKE
+<div align="center"> <img src="https://raw.githubusercontent.com/kaviyaazhagesan23-ui/kaviyaazhagesan23-ui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// CURRENT FOCUS
+yaml
+focus: [AI / ML, Generative AI, Computer Vision, Full Stack, Cloud]
+building: [Intelligent Applications, Data-Driven Systems]
+exploring: [LLMs, MLOps, AI Agents]
+open_to: [Internships, Research, Hackathons, AI Projects]
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18,24&height=3&section=header" width="100%" alt="divider"/>
+// CONNECT
+<div align="center">
+
+<a href="mailto:kaviyaazhagesan9@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1026" alt="Gmail"/></a>
+<a href="https://github.com/kaviyaazhagesan23-ui"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1026" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1026" alt="LinkedIn"/></a>
+<a href="https://github.com/kaviyaazhagesan23-ui"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1026" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&width=560&height=30&lines=Building+intelligent+systems.+Solving+real+problems." alt="quote"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,25:2563EB,50:7C3AED,75:312E81,100:050816&height=160&section=footer&animation=twinkling" width="100%" alt="footer"/> </div>
