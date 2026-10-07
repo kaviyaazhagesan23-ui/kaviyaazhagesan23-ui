@@ -24,11 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:kaviyaazhagesan9@gmail.com">
+<a href="kaviyaazhagesan9@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/kaviyaazhagesan23-ui">
-<img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=0A101F" alt="Portfolio" />
-</a>
-</div>
