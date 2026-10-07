@@ -30,3 +30,4 @@ jobs:
           build_dir: dist
           commit_message: "Update snake animation [skip ci]"
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
