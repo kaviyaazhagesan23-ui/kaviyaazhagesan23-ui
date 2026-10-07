@@ -23,6 +23,18 @@
 
 <br/><br/>
 
+<h2 align="center">🐍 Neon Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kaviyaazhagesan23-ui/kaviyaazhagesan23-ui/output/github-snake.svg"
+    alt="Neon GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+
+
 <a href="https://www.linkedin.com/in/kaviyaazhagesan/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -32,3 +44,5 @@
 </a>
 
 </div>
+
+
