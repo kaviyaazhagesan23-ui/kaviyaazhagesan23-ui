@@ -19,3 +19,16 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kaviyaazhagesan23-ui/kaviyaazhagesan23-ui/output/github-snake.svg" />
 </picture>
 </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/kaviya-azhagesan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kaviyaazhagesan@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kaviyaazhagesan23-ui">
+<img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=0A101F" alt="Portfolio" />
+</a>
+</div>
